@@ -25,7 +25,7 @@ This task demonstrates how to use **Python** with **SQLite** and **Pandas** to g
 1. Ran a SQL query to get:
    - Total quantity sold
    - Total revenue per product
-2. Ran an additional SQL query to get overall sales totals (optional).
+2. Ran an additional SQL query to get overall sales totals .
 3. Loaded SQL results into Pandas DataFrame.
 4. Printed the results to the console.
 5. Visualized product-wise revenue using a **bar chart** with Matplotlib.
