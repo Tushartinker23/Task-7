@@ -5,7 +5,7 @@ This task demonstrates how to use **Python** with **SQLite** and **Pandas** to g
 ---
 
 ## 🔧 Tools & Libraries Used
-- Python (3.x)
+- Python (3.x) in Jupyter Notebook
 - SQLite (sqlite3)
 - Pandas
 - Matplotlib
@@ -14,7 +14,7 @@ This task demonstrates how to use **Python** with **SQLite** and **Pandas** to g
 
 ## 📁 Files Included
 - `sales_data.db` – SQLite database created 
-- `sales_summary.py` – Python script with SQL queries and visualizations
+- `sales_summary.ipynb` – Python script with SQL queries and visualizations
 - `sales_chart.png` – Bar chart showing revenue by product
 - `README.md` – You're reading it!
 
