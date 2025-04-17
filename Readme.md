@@ -32,7 +32,7 @@ This task demonstrates how to use **Python** with **SQLite** and **Pandas** to g
 
 ---
 
-## 📊 Sample Output
+## 📊 Output
 
 ```text
 📊 Sales Summary by Product:
